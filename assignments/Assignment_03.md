@@ -28,7 +28,31 @@ Me gusta trabajar en equipo y aprender de otras personas. También intento ser r
 ### Aspectos por mejorar
 Considero que debo mejorar mi manejo del tiempo cuando tengo varias responsabilidades a la vez. 
 También quiero tener más confianza al proponer ideas técnicas o soluciones, ya que a veces dudo antes de decir lo que pienso. Además, quiero
-seguir fortaleciendo mis conocimientos en programación para aportar más al equipo.
+seguir fortaleciendo mis conocimientos en programación para aportar más al equipo
+
+
+## Juan P. Rodríguez B.
+
+**Rol dentro del equipo:**
+Me gustaria poder desempeñar el rol de desarrollador, pero tambien encargarme de la base de datos del proyecto.
+
+**Fortalezas principales:**
+Procuro entender todos los puntos de vista que todos tienen de tal manera que el desarrollo del proyecto sea el mejor posible.
+
+**Aspectos para mejorar:**
+El manejo del tiempo es una cuestion que espero poder mejorar en lo que se avanza en este proyecto.
+Adicionalmente, ha pasado un tiempo desde que estuve involucrado en el desarrollo de una aplicación, por lo que mi desempeño al inicio puede ser deficiente.
+
+## Wilson Franco
+
+### Rol que deseo desempeñar 
+Me gustaria integrarme tambien como desarrollador , talvez no centrandome tanto ni en programar ni en la parte tecnica sino tener estos dos puntos presentes casi al mismo nivel para poder tener una respuesta optima frente a inquietudes que se presenten en un futuro.
+
+### Fortalezas 
+mi principal fortaleza es mi versatilidad para identificar y solucionar problemas , de igual manera ya he manejado sistemas ERP y estoy familiarizado con varios modulos ERP
+
+### Aspectos a Mejorar
+tengo un largo camino por recorrer para optimizar mi codigo frente a desarrollo front ,mi manejo de tiempos no es el optimo ,entrego el trabajo en las fechas designadas ,pero no suelo tener un cronograma bienn establecido que pueda asumir contratiempos externos y me gustaria cambiar eso.
 
 ---
 
